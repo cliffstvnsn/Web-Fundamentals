@@ -9,8 +9,8 @@
 }
 
 .links {
-    width: 2.2em;
-    height: 2.2em;
+    width: 3em;
+    height: 3em;
 }
 
 .blankPic {
@@ -28,12 +28,6 @@
     justify-content: flex-start;
 }
 
-.symbols {
-    height: 3.5em;
-    width: 4em;
-}
-
-tr {
-    border: 1px solid #0000;
+h2 {
 
 }

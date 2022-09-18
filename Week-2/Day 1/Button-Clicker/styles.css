@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding-left: 5em;
+    padding-right:5em;
+}
+
+.topBar {
+    background-color: #cccccc;
+    padding: .75em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.topButtons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    margin-right: 5em;
+}
+
+.login {
+    margin-right: 10em;
+}
+
+.dojonary {
+    margin-left: 10em;
+}
+
+.columns {
+    display: flex;
+    justify-content: center;
+}
+
+.leftColumn {
+    border: 2px solid #0000;
+    background-color: aqua;
+
+}
+
+.rightColumn {
+    border: 2px solid #0000;
+    background-color: black;
+}
