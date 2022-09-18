@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.profileLinks {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.links {
+    width: 3em;
+    height: 3em;
+}
+
+.blankPic {
+    width: 6em;
+    height: 7em;
+}
+
+.socialSnakes {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nameAndEmail {
+    display: flex;
+    justify-content: flex-start;
+}
+
+h2 {
+
+}
